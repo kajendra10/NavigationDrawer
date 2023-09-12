@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RECYCLER" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/velvet</item>
+        <item name="colorPrimaryVariant">@color/velvet</item>
+        <item name="android:statusBarColor">@color/velvet</item>
+    </style>
+
+    <style name="Theme.RECYCLER" parent="Base.Theme.RECYCLER" />
+</resources>

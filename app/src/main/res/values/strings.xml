@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NAV DRAWER</string>
+    <string name="open_nav">Open Nav Recycler</string>
+    <string name="close_nav">Close Nav Recycler</string>
+
+    <!-- Nav Drawer Texts-->
+    <string name="home">Home</string>
+    <string name="info">Info</string>
+    <string name="location">Location</string>
+    <string name="logout">Logout</string>
+    <string name="nav_drw_sample">NAV DRAW SAMPLE</string>
+
+    <!-- Texts for fragments-->
+    <string name="home_text">HOME</string>
+    <string name="info_text">INFO</string>
+    <string name="loc_text">LOCATION</string>
+    <string name="logout_text">LOGOUT</string>
+
+</resources>
